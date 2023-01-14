@@ -1,0 +1,15 @@
+C:\Users\Karo\source\repos\csvToxml\csvToxml\bin\Debug\net6.0\csvToxml.exe
+C:\Users\Karo\source\repos\csvToxml\csvToxml\bin\Debug\net6.0\csvToxml.deps.json
+C:\Users\Karo\source\repos\csvToxml\csvToxml\bin\Debug\net6.0\csvToxml.runtimeconfig.json
+C:\Users\Karo\source\repos\csvToxml\csvToxml\bin\Debug\net6.0\csvToxml.dll
+C:\Users\Karo\source\repos\csvToxml\csvToxml\bin\Debug\net6.0\csvToxml.pdb
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\csvToxml.csproj.AssemblyReference.cache
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\csvToxml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\csvToxml.AssemblyInfoInputs.cache
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\csvToxml.AssemblyInfo.cs
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\csvToxml.csproj.CoreCompileInputs.cache
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\csvToxml.dll
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\refint\csvToxml.dll
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\csvToxml.pdb
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\csvToxml.genruntimeconfig.cache
+C:\Users\Karo\source\repos\csvToxml\csvToxml\obj\Debug\net6.0\ref\csvToxml.dll

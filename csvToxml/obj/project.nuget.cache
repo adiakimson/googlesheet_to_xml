@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zNgQzTpGysZjfgvRf0z088QIo/iFW8c9AtAGnB6w5KAZqR267b679qoSPfped+ORWl9yUV4z+RevLRsWCefaJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karo\\source\\repos\\csvToxml\\csvToxml\\csvToxml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Karo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Karo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Karo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
