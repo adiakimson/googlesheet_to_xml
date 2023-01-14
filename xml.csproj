@@ -1,7 +1,0 @@
-/*
-config csproj
-*/
-
-// dopiąć biblioteki
-using System;
-using System.IO;
